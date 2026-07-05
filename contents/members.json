@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MYXXTS",
+    "nickname": "沐云湘夕",
+    "url": "https://www.myxxts.com",
+    "title": "项目负责人",
+    "description": "负责项目开发、运维、数据流程维护和项目管理工作。",
+    "tags": ["开发", "运维", "数据维护", "文档维护", "项目管理"],
+    "status": "ACTIVE",
+    "sort": 1
+  },
+  {
+    "id": "Xiaozonglin",
+    "nickname": "林林",
+    "url": "https://www.xiaozonglin.cn",
+    "title": "项目发起人",
+    "description": "项目发起人，主要参与项目文档编写和数据维护工作。",
+    "tags": ["发起人", "文档维护", "数据维护"],
+    "status": "ALUMNI",
+    "sort": 11
+  },
+  {
+    "id": "NriotHrreion",
+    "nickname": "Norcleeh",
+    "url": "https://nocp.space",
+    "title": "贡献者",
+    "description": "承担项目开发与文档编写工作。",
+    "tags": ["项目开发", "文档维护"],
+    "status": "INACTIVE",
+    "join_time": "2025-07-07"
+  }
+]
