@@ -27,5 +27,15 @@
     "tags": ["项目开发", "项目维护"],
     "status": "ACTIVE",
     "join_time": "2026-06-28"
+  },
+  {
+    "id": "GeonasZ",
+    "nickname": "Geonas",
+    "url": "https://geonas.ink",
+    "title": "核心贡献者",
+    "description": "写写代码，跑跑模型，并期待邂逅奇迹。",
+    "tags": ["开发", "项目管理"],
+    "status": "ACTIVE",
+    "join_time": "2026-08-03"
   }
 ]
